@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Backery-1",
+			"path": ".."
+		},
+		{
+			"name": "assets",
+			"path": "../../../../Desktop/backery_1/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "assets"
+	}
+}
